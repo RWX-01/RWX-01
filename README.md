@@ -1,7 +1,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
-Cybersecurity professional with experience in penetration testing, network security, and system administration. I have experience configuring enterprise systems, routers, switches, and firewalls (Cisco, Fortinet, MikroTik, pfSense), implementing IDS/IPS solutions, and using tools such as Nmap, Metasploit, Burp Suite, Wireshark, Splunk, Wazuh, Snort, and SIEM, among others. I possess skills in Python, Bash, Docker, and SQL/NoSQL databases, as well as experience working in Windows Server, Ubuntu Server, Apache, and Nginx environments.
+Profesional de ciberseguridad con experiencia en pruebas de penetración, seguridad de redes y administración de sistemas. Cuento con experiencia en la configuración de sistemas empresariales, enrutadores, conmutadores y cortafuegos (Cisco, Fortinet, MikroTik, pfSense), en la implementación de soluciones IDS/IPS y en el uso de herramientas como Nmap, Metasploit, Burp Suite, Wireshark, Splunk, Wazuh, Snort y SIEM, entre otras. Poseo habilidades en Python, Bash, Docker y bases de datos SQL/NoSQL, así como experiencia trabajando en entornos Windows Server, Ubuntu Server, Apache y Nginx.
 
 ## Tools
 
