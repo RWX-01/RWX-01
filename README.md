@@ -1,7 +1,10 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 Cybersecurity professional with experience in penetration testing, network security, and system administration. I have experience configuring enterprise systems, routers, switches, and firewalls (Cisco, Fortinet, MikroTik, pfSense), implementing IDS/IPS solutions, and using tools such as Nmap, Metasploit, Burp Suite, Wireshark, Splunk, Wazuh, Snort, and SIEM, among others. I possess skills in Python, Bash, Docker, and SQL/NoSQL databases, as well as experience working in Windows Server, Ubuntu Server, Apache, and Nginx environments.
-## Cybersecurity Tools
+
+## Tools
+
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
@@ -30,6 +33,7 @@ Cybersecurity professional with experience in penetration testing, network secur
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Proyects
+
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | CTF - Dockerlabs|[Write-ups and solutions for machines from DockerLabs](https://github.com/RWX000/DockerLabs)                                                        |
