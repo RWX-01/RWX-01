@@ -36,8 +36,8 @@ Profesional de ciberseguridad con experiencia en pruebas de penetración, seguri
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| CTF - Dockerlabs|[Write-ups and solutions for machines from DockerLabs](https://github.com/RWX000/DockerLabs)                                                        |
+|Dockerlabs|[Write-ups-DockerLabs](https://github.com/RWX000/DockerLabs)                                                        |
 |CTF - OverTheWire | [OverTheWire](https://github.com/RWX000/OverTheWire) |
-|Network Configuration & Troubleshooting in Cisco packettracer| [CCNA Practical Labs Portfolio](https://github.com/RWX000/LABS-CCNA) |
+|Configuracion de redes en cisco packecttracer| [CCNA-Laboratorios](https://github.com/RWX000/LABS-CCNA) |
 
 
