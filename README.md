@@ -38,7 +38,7 @@ Profesional de ciberseguridad con experiencia en pruebas de penetración, seguri
 |-----------------------------------------------|----------------------------|
 |Dockerlabs|[Write-ups-DockerLabs](https://github.com/RWX000/DockerLabs)                                                        |
 |CTF - OverTheWire | [OverTheWire](https://github.com/RWX000/OverTheWire) |
-|Docker-Security-Labs|[KaliLinux En Docker](https://github.com/RWX-01/Docker-Security-Labs/tree/main/KaliLinux%2BDocker)|
+|Despliegue ultra rapido de kali Linux en docker|[KaliLinux En Docker](https://github.com/RWX-01/KaliLinux-Docker)|
 |Configuracion de redes en cisco packecttracer| [CCNA-Laboratorios](https://github.com/RWX000/LABS-CCNA) |
 
 
